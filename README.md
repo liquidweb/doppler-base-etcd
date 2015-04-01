@@ -1,3 +1,3 @@
 
-etcd container (with /bin/echo)
+etcd container (now with more echo)
 
