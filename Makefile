@@ -2,7 +2,7 @@
 
 PWD = $(shell pwd)
 
-ETCD_IMAGE          ?= dwburke/base-etcd
+ETCD_IMAGE          ?= liquidweb/base-etcd
 ETCD_VERSION        ?= latest
 
 all: default
